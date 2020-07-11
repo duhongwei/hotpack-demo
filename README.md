@@ -1,2 +1,2 @@
-# hotpack-demo
-hotpack demo 
+# hotpack-vue-demo
+hotpack vue demo 
